@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BrawlStats**
 
-- 🌱 I’m currently learning **Godot Engine**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 Check out my portfolio website [https://echoparrattportfolio.framer.website/](https://echoparrattportfolio.framer.website/)
 
