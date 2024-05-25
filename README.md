@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Echo Parratt</h1>
 <h3 align="center">Computer Science student @ UVIC</h3>
 
-- 🔭 I’m currently working on **World Cup Pass Network Analysis**
+- 🔭 I’m currently working on **BrawlStats**
 
 - 🌱 I’m currently learning **Godot Engine**
 
