@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Check out my portfolio website [https://echoparrattportfolio.framer.website/](https://echoparrattportfolio.framer.website/)
-
 - 📫 How to reach me **echoparratt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
