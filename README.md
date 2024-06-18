@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Echo Parratt</h1>
 <h3 align="center">Computer Science student @ UVIC</h3>
 
-- 🔭 I’m currently working on **Scrimbas Frontend Developer course**
+- 🔭 I’m currently working on **Scrimbas Frontend Developer Course**
 
 - 🌱 I’m currently learning **Web Dev Foundations**
 
