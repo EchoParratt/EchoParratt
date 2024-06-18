@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Scrimbas Frontend Developer course**
 
-- 🌱 I’m currently working on **Learning Web Dev Foundations**
+- 🌱 I’m currently learning **Web Dev Foundations**
 
 - 📫 How to reach me **echoparratt@gmail.com**
 
