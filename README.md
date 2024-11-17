@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Echo Parratt</h1>
 <h3 align="center"> Third Year Computer Science Student @ UVIC</h3>
 
-- 🔭 I’m currently working on **Scrimba's Frontend Developer Course** and building a simple **REST API**
+- 🔭 I’m currently working on **Scrimba's AI Engineering Course** 
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **OpenAI API**
 
 - 📫 How to reach me **echoparratt@gmail.com**
 
